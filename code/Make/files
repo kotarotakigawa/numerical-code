@@ -1,0 +1,3 @@
+SIO2noLuc.C
+
+EXE = $(FOAM_APPBIN)/SIO2noLuc
